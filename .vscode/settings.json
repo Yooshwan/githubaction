@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/491149f9-14a0-4045-9616-cb90273c9b48/resourceGroups/github-RG/providers/Microsoft.Web/sites/yooshwanwebapp"
+}
